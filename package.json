@@ -6,7 +6,7 @@
   "private": true,
   "main": "main.js",
   "dependencies": {
-    "barcode-js": "^13.9.0"
+    "barcode-js": "^14.0.3580"
   },
   "scripts": {
     "start": "node main.js"
